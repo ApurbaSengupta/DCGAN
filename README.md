@@ -4,6 +4,5 @@ Generating facial images of imaginary celebrities and facial sketches of imagina
 
 
 
-Few Instructions:
-
+* Few Instructions:
 Create folders 'cufs' and 'celeba' at the master root and create subfolders called 'imgs' in each of them. Download the CelebA dataset (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and the CUFS dataset (http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) and put them into the 'imgs' subgfolder of the respective folder. Change the "dataroot" global variable in each cell from '../../GAN2/cufs/', '../../GAN2/celeba/' and '../../GAN2/cufs/' to 'cufs/', 'celeba/' and 'cufs/' respectively.  
