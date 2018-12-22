@@ -1,6 +1,8 @@
 # DCGAN
 
-Generating facial images of imaginary celebrities and facial sketches of imaginary people using Deep Convolutional GAN (DCGAN). Used the CelebA and CUFS datasets to train the respective models. Utilized PyTorch framework for development. Used a NVIDIA GeForce GTX 1070 GPU machine to facilitate training of the model. 
+Generating facial images of imaginary celebrities and facial sketches of imaginary people using Deep Convolutional GAN (DCGAN). Used the CelebA and CUFS datasets to train the respective models. 
+
+Utilized PyTorch framework for development. Used a NVIDIA GeForce GTX 1070 GPU machine to facilitate training of the model. 
 
 
 Please note:
