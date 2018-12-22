@@ -4,4 +4,4 @@ Generating facial images of imaginary celebrities and facial sketches of imagina
 
 
 Please note:
- * Before running the notebook, download the CelebA dataset (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and the CUFS dataset (http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) and put them into the 'imgs' subfolder of 'celeba' and 'cufs' respectively. 
+ * Before running the notebook, download the CelebA dataset images (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and the CUFS dataset images (http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) and put them into the 'imgs' subdirectory of the 'celeba' and 'cufs' directories respectively. 
