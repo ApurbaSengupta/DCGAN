@@ -10,9 +10,9 @@ Please note:
 
 <p align="center">
   <br><br>
-  <b>CelebA Results</b><br>
+  <b>CelebA Results</b>
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_celeba.png">
   <br><br>
-  <b>CUFS Results</b><br>
+  <b>CUFS Results</b>
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_cufs.png">
 </p>
