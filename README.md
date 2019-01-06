@@ -9,5 +9,6 @@ Please note:
  * Before running the Notebook, download the CelebA dataset images (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and the CUFS dataset images (http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) and put them into the 'imgs' subdirectory of the 'celeba' and 'cufs' directories respectively. 
 
 <p align="center">
+  <b>CelebA Results</b><br>
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_celeba.png">
 </p>
