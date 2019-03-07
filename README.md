@@ -12,6 +12,8 @@ Please note:
   <br><br>
   <b>CelebA Results</b>
   <br><br>
+  Epochs 1 --> 5
+  <br>
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_001.png" height="200" width="200">
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_002.png" height="200" width="200">
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_003.png" height="200" width="200">
