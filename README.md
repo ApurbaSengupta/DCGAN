@@ -18,7 +18,7 @@ Please note:
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_002.png" height="200" width="200">
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_003.png" height="200" width="200">
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_004.png" height="200" width="200">
-  <br>
+  <br><br>
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_celeba.png">
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/plot_celeba.png">
   <br><br><br>
