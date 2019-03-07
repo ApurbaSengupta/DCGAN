@@ -12,7 +12,11 @@ Please note:
   <br><br>
   <b>CelebA Results</b>
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_celeba.png">
+  <br>
+  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/plot_celeba.png">
   <br><br>
   <b>CUFS Results</b>
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_cufs.png">
+  <br>
+  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/plot_cufs.png">
 </p>
