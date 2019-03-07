@@ -11,10 +11,10 @@ Please note:
 <p align="center">
   <br><br>
   <b>CelebA Results</b>
-  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_001.png">
-  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_002.png">
-  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_003.png">
-  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_004.png">
+  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_001.png" height="50" width="50">
+  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_002.png" height="50" width="50">
+  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_003.png" height="50" width="50">
+  <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_samples_epoch_004.png" height="50" width="50">
   <br>
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/fake_celeba.png">
   <img src="https://github.com/ApurbaSengupta/DCGAN/blob/master/results/plot_celeba.png">
